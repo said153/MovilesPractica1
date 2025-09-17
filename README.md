@@ -1,16 +1,10 @@
 # practica1
 
-A new Flutter project.
 
-## Getting Started
+# MovilesPractica1
 
-This project is a starting point for a Flutter application.
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b53d6207-262b-49f0-8fe8-daf7c608ccc1" />
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
