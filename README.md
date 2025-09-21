@@ -1,5 +1,5 @@
-#Desarrollo de Aplicaciones Móviles Nativas – Práctica 1
-##📌 Descripción
+# Desarrollo de Aplicaciones Móviles Nativas – Práctica 1
+## 📌 Descripción
 
 Esta práctica esta conformada por dos fases:
 
