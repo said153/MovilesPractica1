@@ -100,4 +100,19 @@ Cada widget incluye:
 
 https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
 
+### 🛠️ Instrucciones de uso
+
+1. **Descargar o clonar** el repositorio en Android Studio.  
+2. **Abrir el proyecto** en Android Studio y esperar a que termine la sincronización de Gradle.  
+3. **Conectar un dispositivo Android** o configurar un emulador.  
+4. **Ejecutar la aplicación** haciendo clic en el botón **Run**.  
+5. **Explorar la app:** Una vez instalada, se mostrará la **pantalla principal** desde donde puedes acceder a las diferentes pantallas (**widgets**), que incluyen ejemplos de:
+
+   - **Pantalla 1:** Campos de texto (**TextField**), pantalla principañ.  
+   - **Pantalla 2:** Botones (**Button, ElevatedButton, TextButton, OutlinedButton, IconButton, FloatingActionButton**).  
+   - **Pantalla 3:** Elementos de selección (**Checkbox, Radio, Switch**).  
+   - **Pantalla 4:** Listas (**ListView**).  
+   - **Pantalla 5:** Elementos de información (**Text, Image, ProgressIndicator**).  
+
+
 
