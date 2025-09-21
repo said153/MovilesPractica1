@@ -26,7 +26,7 @@ Se observa en la imagen la platilla que te da por defecto al crear un nuevo proy
   <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/b53d6207-262b-49f0-8fe8-daf7c608ccc1" />
 </p>
 
-### 📲 Desarrollo de la Aplicación
+### 📲 Segunda fase: Desarrollo de la Aplicación
 
 La aplicación muestra diferentes elementos de **UI**, organizados en pantallas (**widgets**) y por medio de la navegación entre ellas:
 
@@ -34,7 +34,18 @@ La aplicación muestra diferentes elementos de **UI**, organizados en pantallas 
 - **Pantalla 2:** Botones (**Button, Elevated Button, TextButton, OutlineButton, IconButton, FloatingActionButton**).  
 - **Pantalla 3:** Elementos de selección (**Checkbox, Radio, Switch**).  
 - **Pantalla 4:** Listas (**ListView**).  
-- **Pantalla 5:** Elementos de información (**Text, Image, ProgressIndicator**).  
+- **Pantalla 5:** Elementos de información (**Text, Image, ProgressIndicator**).
+
+ ## 🧭 Navegación
+
+Se implementó un **menú de navegación** para acceder a cada pantalla (**widget**).
+
+Cada widget incluye:
+- 📝 **Un título descriptivo**.  
+- 🎨 **Ejemplos visuales funcionando**.  
+- 💡 **Una breve explicación de su uso**.  
+- ⚡ **Una demostración interactiva**.  
+
 
 https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
 
