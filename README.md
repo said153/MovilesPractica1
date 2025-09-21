@@ -113,5 +113,15 @@ https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
    - **Pantalla 4:** Listas (**ListView**).  
    - **Pantalla 5:** Elementos de información (**Text, Image, ProgressIndicator**).  
 
+## ⚠️ Dificultades y cómo se resolvieron
 
+Durante el desarrollo de la aplicación se identificaron varios retos:
+
+### 1. Navegación entre pantallas (widgets)
+- **Problema:** Al implementar la navegación, algunos botones no dirigían a la pantalla correcta o generaban pantallas duplicadas.  
+- **Solución:** Se revisó cuidadosamente la **lógica de rutas** para asegurar que cada botón abriera el widget correspondiente sin duplicaciones.
+
+## 💡 Hallazgos
+
+- Manejar correctamente los **los widgets** es clave para mantener una experiencia de usuario fluida.
 
