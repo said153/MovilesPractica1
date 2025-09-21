@@ -21,11 +21,11 @@ Esta práctica se divide en **dos fases principales**:
 - **Flutter** para desarrollo de la aplicación móvil.
 
 ### Evidencia
-Se observa en la imagen la platilla que te da por defecto
+Se observa en la imagen la platilla que te da por defecto al crear un nuevo proyecto con flutter
 <p align="center">
-  <img width="360" height="600" alt="image" src="https://github.com/user-attachments/assets/b53d6207-262b-49f0-8fe8-daf7c608ccc1" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/b53d6207-262b-49f0-8fe8-daf7c608ccc1" />
 </p>
-
+#### Video de su funcionamiento
 https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
 
 
