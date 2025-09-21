@@ -97,10 +97,7 @@ Cada widget incluye:
 </p>
 
 ### VIDEO DEL FUNCIONAMIENTO 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c" alt="Video del funcionamiento" width="400"/>
-</p>
+https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
 
 ### 🛠️ Instrucciones de uso
 
