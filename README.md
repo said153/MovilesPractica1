@@ -96,9 +96,11 @@ Cada widget incluye:
   <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/c4388e61-3940-4feb-9c96-9b687f7b5614" />
 </p>
 
-### VIDEO DEL FUNCIONAMIENTO
-
-https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c">
+    VIDEO DEL FUNCIONAMIENTO
+  </a>
+</p>
 
 ### 🛠️ Instrucciones de uso
 
