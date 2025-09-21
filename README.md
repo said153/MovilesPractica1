@@ -49,54 +49,54 @@ Cada widget incluye:
 ### 🖼️ Evidencias 
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/544b57e3-1cbb-48cb-99a2-bb5d61df3fc2" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/544b57e3-1cbb-48cb-99a2-bb5d61df3fc2" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/3b52e39b-907b-4a38-b983-4f9c6769598f" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/3b52e39b-907b-4a38-b983-4f9c6769598f" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/417bc793-07d0-4773-8e9e-b0c7da06cb81" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/417bc793-07d0-4773-8e9e-b0c7da06cb81" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/bab09efd-709f-4906-974d-ada01107523b" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/bab09efd-709f-4906-974d-ada01107523b" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/430bdffc-dc92-4c67-ae91-7b7cb282e931" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/430bdffc-dc92-4c67-ae91-7b7cb282e931" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/2ae339da-15df-44b4-956f-c6c521e4a5df" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/2ae339da-15df-44b4-956f-c6c521e4a5df" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/099dc234-521f-492b-93f9-2ba22d56e0b7" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/099dc234-521f-492b-93f9-2ba22d56e0b7" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/2dddfcb8-7f5d-4063-8392-3f8058951ccc" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/2dddfcb8-7f5d-4063-8392-3f8058951ccc" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/25b764bb-e6f8-4dbd-b091-96046c443b02" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/25b764bb-e6f8-4dbd-b091-96046c443b02" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/88ca484c-a155-437a-811a-d6c7554cf395" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/88ca484c-a155-437a-811a-d6c7554cf395" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/f119c692-b8c8-4a45-82f5-33749e396a5d" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/f119c692-b8c8-4a45-82f5-33749e396a5d" />
 </p>
 
 <p align="center">
-  <img width="720" height="800" alt="image" src="https://github.com/user-attachments/assets/c4388e61-3940-4feb-9c96-9b687f7b5614" />
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/c4388e61-3940-4feb-9c96-9b687f7b5614" />
 </p>
 
-
+### VIDEO DEL FUNCIONAMIENTO
 
 https://github.com/user-attachments/assets/2d60be96-84dd-4e31-8ee7-058e420f100c
 
